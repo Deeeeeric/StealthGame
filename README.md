@@ -6,4 +6,4 @@ Part of the Unreal Course in Udemy by EpicGames. These are the files of the cour
 ## Section List
 ### SG00 Project Basics
 * SG01 Create C++ Class
-* SG02 Setup ActorComponent
+* SG02 Setup Actor Component
