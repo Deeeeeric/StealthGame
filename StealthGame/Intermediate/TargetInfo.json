@@ -1,13 +1,13 @@
 {
 	"Targets": [
 		{
-			"Name": "StealthGame",
-			"Path": "D:\\DW\\Documents\\GitHub\\StealthGame\\StealthGame\\Source\\StealthGame.Target.cs",
+			"Name": "FPSGame",
+			"Path": "D:\\DW\\Documents\\GitHub\\StealthGame\\StealthGame\\Source\\FPSGame.Target.cs",
 			"Type": "Game"
 		},
 		{
-			"Name": "StealthGameEditor",
-			"Path": "D:\\DW\\Documents\\GitHub\\StealthGame\\StealthGame\\Source\\StealthGameEditor.Target.cs",
+			"Name": "FPSGameEditor",
+			"Path": "D:\\DW\\Documents\\GitHub\\StealthGame\\StealthGame\\Source\\FPSGameEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

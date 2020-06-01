@@ -1,2 +1,0 @@
-D:\DW\Documents\GitHub\StealthGame\StealthGame\Intermediate\Build\Win64\UE4Editor\Development\StealthGame\Definitions.StealthGame.h
-D:\DW\Documents\GitHub\StealthGame\StealthGame\Source\StealthGame\StealthGame.h
