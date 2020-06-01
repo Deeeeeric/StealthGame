@@ -9,7 +9,7 @@
 
 class UProjectileMovementComponent;
 class USphereComponent;
-
+class UParticleSystem;
 
 UCLASS()
 class AFPSProjectile : public AActor
@@ -26,6 +26,9 @@ protected:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Movement")
 	UProjectileMovementComponent* ProjectileMovement;
 
+	UPROPERTY(EditDefaultsOnly, Category = "FX")
+	UParticleSystem* ExplosionEffect;
+
 public:
 
 	AFPSProjectile();
@@ -40,4 +43,3 @@ public:
 	/** Returns ProjectileMovement subobject **/
 	UProjectileMovementComponent* GetProjectileMovement() const { return ProjectileMovement; }
 };
-
