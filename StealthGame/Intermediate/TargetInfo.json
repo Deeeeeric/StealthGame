@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "StealthGame",
+			"Path": "D:\\DW\\Documents\\GitHub\\StealthGame\\StealthGame\\Source\\StealthGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "StealthGameEditor",
+			"Path": "D:\\DW\\Documents\\GitHub\\StealthGame\\StealthGame\\Source\\StealthGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
